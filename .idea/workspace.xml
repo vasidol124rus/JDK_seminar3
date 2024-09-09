@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b10f4830-431e-42dd-93e5-ed78bb641c28" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Task2_compareArrays/CompareArrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task2_compareArrays/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task3_Pair/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task3_Pair/Pair.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
